@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-lab",
           title: "LAB",
-          description: "Computer Vision and Machine Learning (CVML) Lab",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/lab/";
