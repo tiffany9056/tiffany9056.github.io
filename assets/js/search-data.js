@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/https:/ua-cvml.github.io/";
           },
         },{id: "nav-projects",
-          title: "Projects",
+          title: "PROJECTS",
           description: "",
           section: "Navigation",
           handler: () => {
