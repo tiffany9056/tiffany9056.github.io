@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-lab",
+          title: "LAB",
+          description: "Computer Vision and Machine Learning (CVML) Lab",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
