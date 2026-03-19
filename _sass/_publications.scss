@@ -68,9 +68,9 @@
       }
 
       .title {
-        font-weight: bolder !important;
+        font-weight: bolder;
         // font-size: 2rem;
-        color: var(--global-theme-color);
+        color: var(--global-theme-color) !important;
       }
 
       .author {
