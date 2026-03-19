@@ -28,7 +28,7 @@ ninja.data = [{
           description: "Computer Vision and Machine Learning (CVML) Lab",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/lab/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
