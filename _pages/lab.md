@@ -2,14 +2,17 @@
 layout: page
 title: LAB
 permalink: /lab/
-description: Computer Vision and Machine Learning (CVML) Lab
+description:
 nav: true
 nav_order: 4
 ---
 
 # Computer Vision and Machine Learning (CVML) Lab
+The [Computer Vision and Machine Learning (CVML) Lab](https://www.albany.edu/cnse/research/computer-vision-machine-learning-lab), housed within the University at Albany's College of Nanotechnology, Science, and Engineering, is a research group specializing in computer vision, machine learning, and video analytics.
 
-The Computer Vision and Machine Learning (CVML) Lab conducts research in computer vision, machine learning, multimedia analysis, medical image computing, and intelligent systems.
+Our research is dedicated to advancing the mathematical foundations and algorithmic development of machine learning and deep learning, particularly for the analysis of visual imagery. Through interdisciplinary collaboration, we pursue comprehensive research initiatives and leverage expertise from diverse domains.
+
+Funding has been provided by the National Science Foundation (NSF), the Defense Advanced Research Projects Agency (DARPA), the National Institute of Justice (NIJ), the Intelligence Advanced Research Projects Activity (IARPA), Inventec Corporation, and several UAlbany seed funds. We also appreciate the generous support from NVIDIA.
 
 ## Research Areas
 
@@ -24,18 +27,19 @@ The Computer Vision and Machine Learning (CVML) Lab conducts research in compute
 
 **Prof. Ming-Ching Chang**  
 University at Albany, SUNY  
-[Official Lab Website](https://www.albany.edu/cnse/research/computer-vision-machine-learning-lab)
+[Official Lab Website](https://www.albany.edu/computer-science/faculty/ming-ching-chang)
 
-## People
+**Prof. Xin Li**  
+University at Albany, SUNY  
+[Official Lab Website](https://www.albany.edu/computer-science/faculty/xin-li)
 
-### Faculty
-- Prof. Ming-Ching Chang
+### Lab Member
 
-### Students
-- Add student names here
-
-### Collaborators
-- Add collaborator names here
+- **Dr. Chuanbo Hu**, Postdoctoral Associate
+- **Rui Wang**, PhD candidate, Computer Science
+- **Abhineet Pandey**, PhD student
+- **An Yu**, PhD student
+- **Ting-Yu Tsai**, PhD student
 
 ## Publications
 
