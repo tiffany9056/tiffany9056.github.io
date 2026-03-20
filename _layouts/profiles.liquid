@@ -40,7 +40,7 @@ layout: page
         {% if profile.content %}
           {% assign content_file = profile.content | strip %}
           <p>{{ content_file }}</p>
-          {% capture profile_content %}{% include {{ content_file }} %}{% endcapture %}
+          {% capture profile_content %}{% include content_file %}{% endcapture %}
           {{ profile_content | markdownify }}
         {% else %}
           {{ content }}

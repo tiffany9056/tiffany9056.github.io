@@ -33,7 +33,7 @@ profiles:
 
   - align: left
     image:
-    content: project_profiles/about_mutitracking.md
+    content: project_profiles/about_multitracking.md
     image_circular: false
     more_info: >
       UA-DETRAC Benchmark Dataset for Multi-Object Tracking
