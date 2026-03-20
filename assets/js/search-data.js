@@ -60,8 +60,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-rat-seizure-detection-amp-classification",
-          title: 'Rat Seizure Detection &amp;amp; Classification',
+          section: "News",},{id: "projects-ting-yu-tsai",
+          title: 'Ting Yu Tsai',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
