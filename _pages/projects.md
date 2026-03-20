@@ -8,11 +8,11 @@ nav_order: 4
 
 profiles:
   - align: right
-    image: assets/img/project/logo_rat.png
+    image: project/logo_rat.png
     content: about_einstein.md
     image_circular: false
     more_info: >
-      <p>Rat Seizure Detection & Classification</p>
+      <p>Rat Seizure Detection &amp; Classification</p>
     redirect: https://ua-cvml.github.io/
 
   - align: left

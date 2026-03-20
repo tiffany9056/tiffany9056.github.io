@@ -18,7 +18,15 @@ layout: page
             {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
           {% endif %}
           {% if profile.more_info %}
-            <div class="more-info">{{ profile.more_info }}</div>
+            {% if profile.redirect %}
+              <div class="more-info">
+                <a href="{{ profile.redirect }}" target="_blank" rel="noopener noreferrer">
+                  {{ profile.more_info }}
+                </a>
+              </div>
+            {% else %}
+              <div class="more-info">{{ profile.more_info }}</div>
+            {% endif %}
           {% endif %}
         </div>
 
