@@ -73,14 +73,6 @@ ul.task-list input[type="checkbox"] {
 // }
 
 .profiles-profile {
-  width: 100%;
-
-  .more-info {
-    margin-bottom: 5px;
-    margin-top: 5px;
-    font-family: monospace;
-  }
-
   img {
     width: 100%;
     height: 175px;
@@ -103,7 +95,6 @@ ul.task-list input[type="checkbox"] {
 
     a {
       color: var(--global-theme-color) !important;
-
       &:hover {
         color: var(--global-hover-color) !important;
         text-decoration: underline;
@@ -144,12 +135,12 @@ ul.task-list input[type="checkbox"] {
 //   background-color: transparent;
 // }
 
-// .project-profile img {
-//     width: 100%;
-//     height: 175px;
-//     object-fit: contain;
-//     background-color: white;
-// }
+.project-profile img {
+    width: 100%;
+    height: 175px;
+    object-fit: contain;
+    background-color: white;
+}
 // CV
 
 .cv {
