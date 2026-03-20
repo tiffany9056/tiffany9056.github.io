@@ -9,7 +9,7 @@ nav_order: 4
 profiles:
   - align: right
     image: project/logo_rat.png
-    content: _projects/about_rat.md
+    content: project_profiles/about_rat.md
     image_circular: false
     more_info: >
       Rat Seizure Detection &amp; Classification
@@ -17,7 +17,7 @@ profiles:
 
   - align: left
     image: project/logo_skeleton.png
-    content: _projects/about_skeleton.md
+    content: project_profiles/about_skeleton.md
     image_circular: false
     more_info: >
       Skeleton-based Human Action Recognition
@@ -25,7 +25,7 @@ profiles:
 
   - align: right
     image: project/logo_obtracking.png
-    content: _projects/about_obtracking.md
+    content: project_profiles/about_obtracking.md
     image_circular: false
     more_info: >
       Single & Multiple Object Tracking
@@ -33,7 +33,7 @@ profiles:
 
   - align: left
     image:
-    content: _projects/mutitracking.md
+    content: project_profiles/mutitracking.md
     image_circular: false
     more_info: >
       UA-DETRAC Benchmark Dataset for Multi-Object Tracking
@@ -42,7 +42,7 @@ profiles:
 
   - align: right
     image:
-    content: _projects/about_cimd.md
+    content: project_profiles/about_cimd.md
     image_circular: false
     more_info: >
       Challenging Image Manipulation Detection (CIMD)
