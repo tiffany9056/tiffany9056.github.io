@@ -38,7 +38,7 @@ layout: page
 
       <div class="clearfix">
         {% if profile.content %}
-          {% assign content_file = profile.content | strip %}
+          {% assign content_file = profile.content | prepend: '_includes/' %}
           {% capture profile_content %}{% include {{ content_file }} %}{% endcapture %}
           {{ profile_content | markdownify }}
         {% else %}
