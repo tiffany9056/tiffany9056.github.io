@@ -9,7 +9,7 @@ nav_order: 4
 profiles:
   - align: right
     image: project/logo_rat.png
-    content: about_einstein.md
+    content: about_rat.md
     image_circular: false
     more_info: >
       <p>Rat Seizure Detection &amp; Classification</p>
@@ -17,7 +17,7 @@ profiles:
 
   - align: left
     image: project2.jpg
-    content: about_einstein.md
+    content: about_rat.md
     image_circular: false
     more_info: >
       <p>Project 2 short info</p>
