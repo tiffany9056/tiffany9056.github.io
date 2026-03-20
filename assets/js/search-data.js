@@ -37,8 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-people",
-          title: "PEOPLE",
+        },{id: "nav-members",
+          title: "MEMBERS",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -70,41 +70,41 @@ ninja.data = [{
           description: "PhD student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-abhineet-pandey",
+          title: 'Abhineet Pandey',
+          description: "PhD student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-rui-wang",
+          title: 'Rui Wang',
+          description: "PhD candidate, Computer Science",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-yuwei-chen",
+          title: 'Yuwei Chen',
+          description: "PhD candidate, Computer Science",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-zhenfei-zhang",
+          title: 'Zhenfei Zhang',
+          description: "PhD candidate, Computer Science",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-dr-chuanbo-hu",
+          title: 'Dr. Chuanbo Hu',
+          description: "Postdoctoral Associate",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-ming-ching-chang",
+          title: 'Ming-Ching Chang',
+          description: "Associate Professor",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+              window.location.href = "/projects/mingching_project/";
+            },},{id: "projects-ming-ching-chang",
+          title: 'Ming-Ching Chang',
+          description: "Professor",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/xinli_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
