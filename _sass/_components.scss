@@ -63,6 +63,7 @@ ul.task-list input[type="checkbox"] {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
+    color: var(--global-theme-color) !important;
 
     p {
       display: inline-block;
@@ -70,10 +71,10 @@ ul.task-list input[type="checkbox"] {
     }
 
     a {
-      color: var(--global-text-color);
+      color: var(--global-hover-color) !important;
 
       &:hover {
-        color: var(--global-theme-color);
+        color: var(--global-theme-color) !important;
         text-decoration: underline;
       }
     }
