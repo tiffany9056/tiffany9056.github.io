@@ -62,7 +62,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-ting-yu-tsai",
           title: 'Ting Yu Tsai',
-          description: "",
+          description: "PhD student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
