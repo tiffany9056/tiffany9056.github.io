@@ -11,3 +11,4 @@ cv_format: jsonresume # options: rendercv, jsonresume
 #   sidebar: left
 redirect: #/assets/pdf/CV_Ming-Ching_Chang.pdf
 ---
+<!-- /Users/tiffanybo/tiffany9056.github.io/_data/cv.yml -->
