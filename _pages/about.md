@@ -6,7 +6,7 @@ subtitle: # <a href='#'>Associate Professor</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: mingchingchang.jpg
+  image: /people/tingtsai97caf364-4567-4507-8450-519798ec2da0.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office: 1400 Western Avenue, Albany, NY 12222, USA</p>
