@@ -30,20 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/https:/ua-cvml.github.io/";
           },
-        },{id: "nav-projects",
-          title: "PROJECTS",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-members",
-          title: "MEMBERS",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
