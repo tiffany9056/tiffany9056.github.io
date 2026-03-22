@@ -5,13 +5,13 @@ cv:
   image: ""
   summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+  # social_networks:
+  #   - network: X
+  #     username: AlbertEinstein
+  #   - network: GitHub
+  #     username: example
+  #   - network: LinkedIn
+  #     username: example
 
   # address:
   #   street: 2712 Broadway St
@@ -37,10 +37,22 @@ cv:
 
       - institution: National Taiwan University
         location: Taiwan (R.O.C), Taipei
+        url: https://www.ntu.edu.tw/english/
         area: Graduate Institute of Biomedical Electronics and Bioinformatics
         studyType: Master
         start_date: 2019
         end_date: 2021
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
+
+      - institution: Chung Shan Medical University
+        location: Taiwan (R.O.C), Taichung
+        url: https://english.csmu.edu.tw/
+        area: Department of Medical Informatics
+        studyType: Bachelor
+        start_date: 2015
+        end_date: 2019
         # highlights:
         #   - Description 1.
         #   - Description 2.
@@ -91,22 +103,6 @@ cv:
     #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
     #       - "Men of the year 2014 by Time magazine"
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
     Publications:
       - title: "Spotting the Fakes: A Deep Dive into GAN-Generated Face Detection"
         authors:
@@ -128,7 +124,7 @@ cv:
         authors:
           - Ting Yu Tsai, Li Lin, Shu Hu, Ming-Ching Chang, Hongtu Zhu, and Xin Wang
         publisher: In 2024 IEEE 7th International Conference on Multimedia Information Processing and Retrieval (MIPR)
-        releaseDate: 2025-05-25
+        releaseDate: 2024-05-25
         url: https://dl.acm.org/doi/10.1145/3742786
         summary: An uncertainty-aware cardiac image segmentation framework that enhances U-Mamba with Sharpness-Aware Minimization and a composite uncertainty-guided loss to improve robustness, generalization, and segmentation accuracy in cardiac MRI.
 
@@ -148,7 +144,6 @@ cv:
         url: https://ieeexplore.ieee.org/document/8517246
         summary: A CNN-based facial skin image classification system that applies deep learning to automatically identify facial skin conditions from images, demonstrating the potential of AI-assisted dermatological screening.
       
-      
       # - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
       #   authors:
       #     - Albert Einstein
@@ -165,23 +160,79 @@ cv:
       #   url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
       #   summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
+    Awards:
+      - title: Taipei Medical University Venture Capital Investment Contest
+        date: 2017
+        awarder: Taipei Medical University
+        summary: First Prize and Best Popularity Award
+
+      - title: International Conference on Medical and Health Informatics
+        date: 2017
+        awarder: International Conference on Medical and Health Informatics
+        summary: First Prize
+
+      - title: Korea International Women's Invention Exposition (KIWIE)
+        date: 2013
+        awarder: KIWIE
+        summary: Gold Prize
+
+      - title: Korea International Women's Invention Exposition (KIWIE)
+        date: 2011
+        awarder: KIWIE
+        summary: German Special Prize
+
+      - title: Artificial Intelligence and Robotics Creative Design Competition
+        date: 2018
+        awarder: AI and Robotics Creative Design Competition
+        summary: Third Prize
+
+      - title: Creative Dredging Engineering & Monitoring Technology Competition
+        date: 2018
+        awarder: Creative Dredging Engineering & Monitoring Technology Competition
+        summary: Honorable Mention
+
+      - title: National Creativity Competition of Electronic Design (14th)
+        date: 2018
+        awarder: National Creativity Competition of Electronic Design
+        summary: Honorable Mention
+
+      - title: Creative Software Application Content Award
+        date: 2018
+        awarder: Creative Software Application Competition
+        summary: Honorable Mention
+        
+    #   - title: Nobel Prize in Physics
+    #     authors:
+    #       - "Royal Swedish Academy of Sciences"
+    #     date: 1921-11-01
+    #     awarder: Royal Swedish Academy of Sciences
+    #     url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+    #     summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+
+      # - title: Max Planck Medal
+      #   authors:
+      #     - "German Physical Society"
+      #   date: 2029
+      #   awarder: German Physical Society
+      #   summary: Awarded for outstanding scientific achievement
+
     # Skills:
       # - name: Physics
         # level: Master
         # icon: fa-solid fa-hashtag
         # keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-    Languages:
-      - name: Chinese
-        # summary: "Native speaker"
+    # Languages:
+    #   - name: Chinese
+    #     # summary: "Fluent"
 
-      - name: English
-        # summary: "Fluent"
+    #   - name: English
+    #     # summary: "Native speaker"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    # Interests:
+    #   - name: Computer Science
+    #     icon: fa-solid fa-tag
+    #     keywords: "Machine Learning, Computer Vision, Image Process, Deep Learning, System Development, MLLM"
 
     # Certificates:
     #   - name: Machine Learning
@@ -199,14 +250,14 @@ cv:
     #     issuer: Stanford University
     #     icon: fa-solid fa-envelope
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+    # Projects:
+    #   - name: Automatic Head and Neck CT image Organ Circle Selection System
+    #     summary: Automatic Head and Neck CT image Organ Circle Selection System
+    #     highlights:
+    #       - The system reduces the selection time by 70%.
+    #       - In order to reduce the burden of radiologists after the circle selection, I developed this system, this system can automatically circle and distinguish whether the organ is pathological change or the dose in the future.
+    #     start_date: 2018-07-01
+    #     end_date: 2018-08-01
 
     # References:
     #   - name: Professor John Doe

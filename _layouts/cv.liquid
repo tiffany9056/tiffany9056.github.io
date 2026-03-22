@@ -287,6 +287,18 @@ layout: default
             </div>
           </div>
         {% endif %}
+        
+        <!-- Publications -->
+        {% if site.data.resume.publications.size > 0 %}
+          <a class="anchor" id="publications"></a>
+          <div class="card mt-3 p-3">
+            <h3 class="card-title font-weight-medium">Publications</h3>
+            <div>
+              {% assign entries = site.data.resume.publications %}
+              {% include cv/publications.liquid %}
+            </div>
+          </div>
+        {% endif %}
 
         <!-- Awards -->
         {% if site.data.resume.awards.size > 0 %}
@@ -296,18 +308,6 @@ layout: default
             <div>
               {% assign entries = site.data.resume.awards %}
               {% include cv/awards.liquid %}
-            </div>
-          </div>
-        {% endif %}
-
-        <!-- Publications -->
-        {% if site.data.resume.publications.size > 0 %}
-          <a class="anchor" id="publications"></a>
-          <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Publications</h3>
-            <div>
-              {% assign entries = site.data.resume.publications %}
-              {% include cv/publications.liquid %}
             </div>
           </div>
         {% endif %}
