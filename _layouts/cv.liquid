@@ -61,7 +61,7 @@ layout: default
         {% assign cv = site.data.cv.cv %}
 
         <!-- Header/Contact Information -->
-        {% if cv.name or cv.label or cv.location or cv.email or cv.phone or cv.website %}
+        {% if cv.name or cv.label or cv.location or cv.email or cv.phone or cv.website or cv.work_authorization %}
           <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">Contact Information</h3>
             <table class="table table-cv table-sm table-borderless">
@@ -106,6 +106,12 @@ layout: default
                   <td class="p-1 pl-2 font-weight-light">
                     <a href="{{ cv.website }}" target="_blank">{{ cv.website }}</a>
                   </td>
+                </tr>
+              {% endif %}
+              {% if cv.work_authorization %}
+                <tr>
+                  <td class="p-1 pr-2 font-weight-bold"><b>Work Authorization</b></td>
+                  <td class="p-1 pl-2 font-weight-light">{{ cv.work_authorization }}</td>
                 </tr>
               {% endif %}
             </table>
