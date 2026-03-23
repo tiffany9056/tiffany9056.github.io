@@ -117,7 +117,7 @@ cv:
           - Ting Yu Tsai, An Yu, Meghana Spurthi Maadugundu, Ishrat Jahan Mohima, Umme Habiba Barsha, Mei-Hwa F. Chen, Balakrishnan Prabhakaran, and Ming-Ching Chang
         publisher: In 2025 IEEE 8th International Conference on Multimedia Information Processing and Retrieval (MIPR)
         releaseDate: 2025-05-05
-        url: https://dl.acm.org/doi/10.1145/3742786
+        url: https://doi.org/10.1109/MIPR67560.2025.00026
         summary: A web-based AI platform for 4D cardiac image analysis that integrates automatic heart-structure segmentation with a two-stage disease classification pipeline, enabling real-time visualization and accurate diagnosis across five cardiac conditions.
 
       - title: "UU-Mamba: Uncertainty-aware U-Mamba for Cardiac Image Segmentation"
@@ -125,7 +125,7 @@ cv:
           - Ting Yu Tsai, Li Lin, Shu Hu, Ming-Ching Chang, Hongtu Zhu, and Xin Wang
         publisher: In 2024 IEEE 7th International Conference on Multimedia Information Processing and Retrieval (MIPR)
         releaseDate: 2024-05-25
-        url: https://dl.acm.org/doi/10.1145/3742786
+        url: https://arxiv.org/abs/2405.17496
         summary: An uncertainty-aware cardiac image segmentation framework that enhances U-Mamba with Sharpness-Aware Minimization and a composite uncertainty-guided loss to improve robustness, generalization, and segmentation accuracy in cardiac MRI.
 
       - title: "Based on DICOM RT Structure and Multiple Loss Function Deep Learning Algorithm in Organ Segmentation of Head and Neck Image"
@@ -133,7 +133,7 @@ cv:
           - Ya-Ju Hsieh, Hsien-Chun Tseng, Chiun-Li Chin, and Yu-Hsiang Shao, Ting-Yu Tsai
         publisher: In Future Trends in Biomedical and Health Informatics and Cybersecurity in Medical Devices
         releaseDate: 2019-09-28
-        url: https://ieeexplore.ieee.org/document/8517246
+        url: https://doi.org/10.1007/978-3-030-30636-6_58
         summary: A deep learning approach for head-and-neck organ segmentation that leverages DICOM RT structure information and a multi-loss GAN framework to improve automatic delineation accuracy and reduce false positives in CT-based radiotherapy planning.
       
       - title: "Facial skin image classification system using Convolutional Neural Networks deep learning algorithm"
@@ -141,7 +141,7 @@ cv:
           - Chiun-Li Chin, Ming-Chieh Chin, Ting-Yu Tsai, and Wei-En Chen
         publisher: In 2018 9th International Conference on Awareness Science and Technology (iCAST)
         releaseDate: 2018-09-01
-        url: https://ieeexplore.ieee.org/document/8517246
+        url: https://doi.org/10.1109/ICAwST.2018.8517246
         summary: A CNN-based facial skin image classification system that applies deep learning to automatically identify facial skin conditions from images, demonstrating the potential of AI-assisted dermatological screening.
       
       # - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
@@ -161,6 +161,26 @@ cv:
       #   summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Awards:
+      - title: Artificial Intelligence and Robotics Creative Design Competition
+        date: 2018
+        awarder: AI and Robotics Creative Design Competition
+        summary: Third Prize
+
+      - title: Creative Dredging Engineering & Monitoring Technology Competition
+        date: 2018
+        awarder: Creative Dredging Engineering & Monitoring Technology Competition
+        summary: Honorable Mention
+
+      - title: National Creativity Competition of Electronic Design (14th)
+        date: 2018
+        awarder: National Creativity Competition of Electronic Design
+        summary: Honorable Mention
+
+      - title: Creative Software Application Content Award
+        date: 2018
+        awarder: Creative Software Application Competition
+        summary: Honorable Mention
+
       - title: Taipei Medical University Venture Capital Investment Contest
         date: 2017
         awarder: Taipei Medical University
@@ -181,26 +201,6 @@ cv:
         awarder: KIWIE
         summary: German Special Prize
 
-      - title: Artificial Intelligence and Robotics Creative Design Competition
-        date: 2018
-        awarder: AI and Robotics Creative Design Competition
-        summary: Third Prize
-
-      - title: Creative Dredging Engineering & Monitoring Technology Competition
-        date: 2018
-        awarder: Creative Dredging Engineering & Monitoring Technology Competition
-        summary: Honorable Mention
-
-      - title: National Creativity Competition of Electronic Design (14th)
-        date: 2018
-        awarder: National Creativity Competition of Electronic Design
-        summary: Honorable Mention
-
-      - title: Creative Software Application Content Award
-        date: 2018
-        awarder: Creative Software Application Competition
-        summary: Honorable Mention
-        
     #   - title: Nobel Prize in Physics
     #     authors:
     #       - "Royal Swedish Academy of Sciences"

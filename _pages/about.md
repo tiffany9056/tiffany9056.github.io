@@ -24,6 +24,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<!-- Introduction text -->
 I am a Ph.D. student in [Computer Science](https://www.albany.edu/computer-science) at the [University at Albany, SUNY](https://www.albany.edu/), working in the [Computer Vision and Machine Learning (CVML) Lab](https://ua-cvml.github.io/) under the supervision of [Prof. Ming-Ching Chang](https://www.albany.edu/computer-science/faculty/ming-ching-chang). My research focuses on multimodal artificial intelligence, computer vision, and medical image analysis.
 
 My goal is to develop intelligent systems that integrate visual perception and multimodal reasoning to analyze complex real-world data. My work spans several areas, including cardiac medical image analysis, biomedical behavior understanding, and efficient multimodal large language models. In medical imaging, I develop deep learning models for cardiac MRI segmentation and disease classification, including the IntelliCardiac platform for automated cardiac analysis. I also study scalable multimodal reasoning by designing efficient token pruning techniques for video-language models.
