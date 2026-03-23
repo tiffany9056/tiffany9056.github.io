@@ -31,12 +31,4 @@ profiles:
     more_info: >
       Rat Seizure Detection &amp; Classification
     redirect: https://www.albany.edu/cnse/research/computer-vision-machine-learning-lab#tab-projects
-
-  - align: right
-    image: project/logo_intellicardiac.jpeg
-    content: project_profiles/about_intellicardiac.md
-    image_circular: false
-    more_info: >
-      IntelliCardiac
-    redirect: https://github.com/UA-CVML/IntelliCardiac
 ---
