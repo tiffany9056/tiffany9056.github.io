@@ -2,8 +2,8 @@ cv:
   name: Ting Yu Tsai
   email: ttsai2@albany.edu
   location: Albany, NY
-  work_authorization: No sponsorship required; permanent resident; green card holder
-  image: ""
+  # work_authorization: No sponsorship required; permanent resident; green card holder
+  image:
   summary: I am a Ph.D. student in Computer Science specializing in computer vision, multimodal machine learning, and medical AI. Experienced in developing deep learning models for medical image segmentation, multimodal reasoning, and efficient large-scale AI systems. Research focuses on building reliable and scalable AI solutions for healthcare and complex visual data analysis.
 
   # social_networks:
@@ -62,8 +62,8 @@ cv:
       - company: University at Albany-SUNY
         position: Research Assistant
         location: USA, New York
-        start_date: Jan. 2024
-        end_date: Dec. 2024
+        start_date: 2024-01
+        end_date: 2024-12
         summary: Cardiovascular Image Segmentation
         highlights:
           - Conducted end-to-end model development and benchmarking for cardiovascular segmentation, integrating SAM and uncertainty-aware loss design to improve generalization and robustness medical dataset.
@@ -71,15 +71,15 @@ cv:
       - company: Taiwan Semiconductor Manufacturing Co., Ltd. (TSMC)
         position: Process Engineer
         location: Taiwan (R.O.C), Tainan
-        start_date: Nov. 2021
-        end_date: Jun. 2022
+        start_date: 2021-11
+        end_date: 2022-06
         summary: Testing and monitoring equipment, updating current system processes and conducting risk assessments.
 
       - company: Test Research Inc.
         position: Software Engineer Intern
         location: Taiwan (R.O.C), Taipei
-        start_date: Aug. 2019
-        end_date: Jul. 2021
+        start_date: 2019-08
+        end_date: 2021-07
         summary: Super Resolution for X-Ray Images
         highlights:
           - Testing and monitoring equipment, updating current system processes and conducting risk assessments.
@@ -87,8 +87,8 @@ cv:
       - company: Chung Shan Medical University Hospital
         position: Software Engineer Intern
         location: Taiwan (R.O.C), Tahchung
-        start_date: Jul. 2018
-        end_date: Aug. 2018
+        start_date: 2018-07
+        end_date: 2018-08
         summary: Automatic Head and Neck CT image Organ Circle Selection System
         highlights:
           - The system reduces the selection time by 70%.
