@@ -90,16 +90,21 @@ cv:
         end_date: 2021-07
         summary: Super Resolution for X-Ray Images
         highlights:
-          - Testing and monitoring equipment, updating current system processes and conducting risk assessments.
+          - Developed a deep learning model for X-ray image super-resolution using Python, TensorFlow, and TensorLayer.
+          - Improved output image quality and enlargement efficiency through model development and optimization.
+          - Benchmarked performance against five classic AI models and four interpolation methods, demonstrating strong results in image quality and computation speed.
 
       - company: Chung Shan Medical University Hospital
         position: Software Engineer Intern
         location: Taiwan (R.O.C), Tahchung
         start_date: 2018-07
         end_date: 2018-08
-        summary: Automatic Head and Neck CT image Organ Circle Selection System
+        summary: Automatic Head and Neck CT image Organ Contour Selection System
         highlights:
-          - The system reduces the selection time by 70%.
+          - Developed a Python-based automated organ contouring system for head and neck CT images.
+          - Built an end-to-end workflow for CT image conversion, organ segmentation, and RS file generation to support radiation oncology applications.
+          - Applied GAN-based deep learning to automate organ delineation and improve workflow consistency.
+          - Reduced organ selection and contouring time by 70%, improving efficiency for clinical staff.
 
     # Volunteer:
     #   - company: People's Climate March
