@@ -66,14 +66,22 @@ cv:
         end_date: 2024-12
         summary: Cardiovascular Image Segmentation
         highlights:
-          - Conducted end-to-end model development and benchmarking for cardiovascular segmentation, integrating SAM and uncertainty-aware loss design to improve generalization and robustness medical dataset.
+          - Developed and benchmarked deep learning models for cardiovascular image segmentation using Python and PyTorch.
+          - Integrated Sharpness-Aware Minimization (SAM) and uncertainty-aware loss design to improve model generalization and robustness on medical imaging datasets.
+          - Conducted systematic experimentation and evaluation to optimize segmentation performance across challenging cardiovascular imaging tasks.
+          - Contributed to research in computer vision, machine learning, and medical AI through development of reliable medical image analysis pipelines.
 
       - company: Taiwan Semiconductor Manufacturing Co., Ltd. (TSMC)
         position: Process Engineer
         location: Taiwan (R.O.C), Tainan
         start_date: 2021-11
         end_date: 2022-06
-        summary: Testing and monitoring equipment, updating current system processes and conducting risk assessments.
+        # summary:
+        highlights:
+          - Tested and monitored manufacturing equipment to support stable and efficient semiconductor production.
+          - Updated current system processes to improve operational efficiency and reliability.
+          - Conducted risk assessments to identify potential issues and support quality and safety standards.
+          - Collaborated with teams to resolve process and equipment-related challenges.
 
       - company: Test Research Inc.
         position: Software Engineer Intern
