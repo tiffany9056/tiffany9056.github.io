@@ -4,7 +4,7 @@ cv:
   location: Albany, NY
   work_authorization: No sponsorship required; permanent resident; green card holder
   image:
-  summary: I am a Ph.D. student in Computer Science specializing in computer vision, multimodal machine learning, and medical AI. Experienced in developing deep learning models for medical image segmentation, multimodal reasoning, and efficient large-scale AI systems. Research focuses on building reliable and scalable AI solutions for healthcare and complex visual data analysis.
+  summary: I am a Ph.D. student in Computer Science at the University at Albany specializing in computer vision, machine learning, multimodal AI, and medical AI. Experienced in conducting advanced research and developing innovative AI models for medical imaging, video understanding, and intelligent healthcare applications. Brings strong technical expertise, analytical problem-solving skills, and a proven ability to translate cutting-edge research into impactful real-world solutions.
 
   # social_networks:
   #   - network: X
@@ -217,11 +217,11 @@ cv:
       #   awarder: German Physical Society
       #   summary: Awarded for outstanding scientific achievement
 
-    # Skills:
-      # - name: Physics
+    Skills:
+      - name: Computer Science
         # level: Master
-        # icon: fa-solid fa-hashtag
-        # keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        icon: fa-solid fa-hashtag
+        keywords: "Computer Vision, Machine Learning, Multimodal AI, Medical AI, Medical Imaging Analysis"
 
     # Languages:
     #   - name: Chinese
