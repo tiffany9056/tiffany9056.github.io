@@ -32,7 +32,7 @@ profiles:
       Rat Seizure Detection &amp; Classification
     redirect: https://github.com/UA-CVML/RatSeizure/
 
-  - align: left
+  - align: right
     image: project/logo_rediprune.png
     content: project_profiles/about_radiprune.md
     image_circular: false
