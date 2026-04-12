@@ -12,7 +12,7 @@ cv:
     hands-on experience in Python, PyTorch, TensorFlow, multimodal LLM
     inference, model evaluation, and software development, with a track record
     of translating research ideas into practical and scalable solutions.
-    
+
   # social_networks:
   #   - network: X
   #     username: AlbertEinstein
@@ -34,7 +34,7 @@ cv:
         location: USA, New York
         url: https://www.albany.edu/
         area: Computer Science
-        studyType: PhD
+        studyType: Ph.D.
         start_date: 2023
         # end_date:
         score: ""
@@ -47,7 +47,7 @@ cv:
         location: Taiwan (R.O.C), Taipei
         url: https://www.ntu.edu.tw/english/
         area: Graduate Institute of Biomedical Electronics and Bioinformatics
-        studyType: Master
+        studyType: M.S.
         start_date: 2019
         end_date: 2021
         # highlights:
@@ -58,7 +58,7 @@ cv:
         location: Taiwan (R.O.C), Taichung
         url: https://english.csmu.edu.tw/
         area: Department of Medical Informatics
-        studyType: Bachelor
+        studyType: B.S.
         start_date: 2015
         end_date: 2019
         # highlights:
@@ -66,52 +66,71 @@ cv:
         #   - Description 2.
 
     Experience:
+      - company: University at Albany - SUNY
+        position: Research Assistant
+        location: Albany, NY, USA
+        start_date: 2025-01
+        end_date: 2025-05
+        summary: Mamba-2 Quantization and Model Evaluation
+        highlights:
+          - Adapted the Quamba2 pipeline for Mamba-2 model quantization and reproduced benchmark results across model scales, enabling systematic evaluation of inference efficiency under quantization.
+          - Built evaluation workflows to profile latency and memory usage and analyze activation behavior, state-space dynamics, and performance trade-offs across model variants.
+
       - company: University at Albany-SUNY
         position: Research Assistant
-        location: USA, New York
+        location: Albany, NY, USA
         start_date: 2024-01
         end_date: 2024-12
         summary: Cardiovascular Image Segmentation
         highlights:
-          - Developed and benchmarked deep learning models for cardiovascular image segmentation using Python and PyTorch.
-          - Integrated Sharpness-Aware Minimization (SAM) and uncertainty-aware loss design to improve model generalization and robustness on medical imaging datasets.
-          - Conducted systematic experimentation and evaluation to optimize segmentation performance across challenging cardiovascular imaging tasks.
-          - Contributed to research in computer vision, machine learning, and medical AI through development of reliable medical image analysis pipelines.
+          - Developed and benchmarked Python/PyTorch deep learning pipelines for cardiovascular image segmentation across challenging medical imaging datasets.
+          - Integrated Sharpness-Aware Minimization (SAM) and uncertainty-aware loss design to improve model robustness and generalization.
+          - Designed and executed systematic evaluation workflows to optimize segmentation performance and support reliable medical image analysis.
 
       - company: Taiwan Semiconductor Manufacturing Co., Ltd. (TSMC)
         position: Process Engineer
-        location: Taiwan (R.O.C), Tainan
+        location: Tainan, Taiwan
         start_date: 2021-11
         end_date: 2022-06
         # summary:
         highlights:
-          - Tested and monitored manufacturing equipment to support stable and efficient semiconductor production.
-          - Updated current system processes to improve operational efficiency and reliability.
-          - Conducted risk assessments to identify potential issues and support quality and safety standards.
-          - Collaborated with teams to resolve process and equipment-related challenges.
-
+          - Supported semiconductor manufacturing operations by monitoring equipment performance, identifying process issues, and contributing to production reliability and efficiency.
+          - Contributed to process improvement efforts to enhance operational stability and system reliability in a high-performance production environment.
+          - Conducted risk assessments and collaborated with cross-functional teams to resolve equipment- and process-related issues while supporting quality and safety standards.
+        
       - company: Test Research Inc.
         position: Software Engineer Intern
-        location: Taiwan (R.O.C), Taipei
+        location: Taipei, Taiwan
         start_date: 2019-08
         end_date: 2021-07
-        summary: Super Resolution for X-Ray Images
+        summary: X-Ray Image Super-Resolution
         highlights:
-          - Developed a deep learning model for X-ray image super-resolution using Python, TensorFlow, and TensorLayer.
-          - Improved output image quality and enlargement efficiency through model development and optimization.
-          - Benchmarked performance against five classic AI models and four interpolation methods, demonstrating strong results in image quality and computation speed.
+          - Developed and optimized a deep learning model for X-ray image super-resolution using Python, TensorFlow, and TensorLayer.
+          - Improved image quality and enlargement efficiency through model design, experimentation, and performance tuning.
+          - Benchmarked the system against five classical AI models and four interpolation methods, demonstrating competitive quality and runtime performance.
 
       - company: Chung Shan Medical University Hospital
         position: Software Engineer Intern
-        location: Taiwan (R.O.C), Tahchung
+        location: Taichung, Taiwan
         start_date: 2018-07
         end_date: 2018-08
-        summary: Automatic Head and Neck CT image Organ Contour Selection System
+        summary: Automated Head and Neck CT Organ Contouring
         highlights:
           - Developed a Python-based automated organ contouring system for head and neck CT images.
           - Built an end-to-end workflow for CT image conversion, organ segmentation, and RS file generation to support radiation oncology applications.
           - Applied GAN-based deep learning to automate organ delineation and improve workflow consistency.
           - Reduced organ selection and contouring time by 70%, improving efficiency for clinical staff.
+
+      - company: Chung Shan Medical University / Chung Shan Medical University Hospital
+        position: Developer
+        location: Taichung, Taiwan
+        start_date: 2016-04
+        end_date: 2018-09
+        summary: Document and Workflow Management Systems
+        highlights:
+          - Designed and developed database-driven web platforms using PHP, JavaScript, HTML, CSS, MySQL, and OpenSSL to support document management, review workflows, admissions outreach, and administrative processes.
+          - Built role-specific workflow and automation features that improved process visibility, reduced manual workload, and supported institution-specific operational requirements.
+          - Automated internship placement and academic document workflows, reducing selected processing tasks from approximately one week to under one minute.
 
     # Volunteer:
     #   - company: People's Climate March
