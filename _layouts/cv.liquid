@@ -160,15 +160,16 @@ layout: default
               {% if section_title == 'Education' %}
                 {% assign entries = section_entries %}
                 {% include cv/education.liquid %}
+              {% elsif section_title == 'Skills' %}
+                {% assign entries = section_entries %}
+                {% include cv/skills.liquid %}
               {% elsif section_title == 'Awards' or section_title == 'Honors and Awards' %}
                 {% assign entries = section_entries %}
                 {% include cv/awards.liquid %}
               {% elsif section_title == 'Publications' %}
                 {% assign entries = section_entries %}
                 {% include cv/publications.liquid %}
-              {% elsif section_title == 'Skills' %}
-                {% assign entries = section_entries %}
-                {% include cv/skills.liquid %}
+
               {% elsif section_title == 'Languages' %}
                 {% assign entries = section_entries %}
                 {% include cv/languages.liquid %}
@@ -266,6 +267,30 @@ layout: default
           </div>
         {% endif %}
 
+        <!-- Education -->
+        {% if site.data.resume.education.size > 0 %}
+          <a class="anchor" id="education"></a>
+          <div class="card mt-3 p-3">
+            <h3 class="card-title font-weight-medium">Education</h3>
+            <div>
+              {% assign entries = site.data.resume.education %}
+              {% include cv/education.liquid %}
+            </div>
+          </div>
+        {% endif %}
+
+        <!-- Skills -->
+        {% if site.data.resume.skills.size > 0 %}
+          <a class="anchor" id="skills"></a>
+          <div class="card mt-3 p-3">
+            <h3 class="card-title font-weight-medium">Skills</h3>
+            <div>
+              {% assign entries = site.data.resume.skills %}
+              {% include cv/skills.liquid %}
+            </div>
+          </div>
+        {% endif %}
+
         <!-- JSONResume Sections - Merge work and volunteer into Experience -->
         {% assign empty_array = '' | split: ',' %}
         {% assign work = site.data.resume.work | default: empty_array %}
@@ -282,14 +307,14 @@ layout: default
           </div>
         {% endif %}
 
-        <!-- Education -->
-        {% if site.data.resume.education.size > 0 %}
-          <a class="anchor" id="education"></a>
+        <!-- Projects -->
+        {% if site.data.resume.projects.size > 0 %}
+          <a class="anchor" id="projects"></a>
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Education</h3>
+            <h3 class="card-title font-weight-medium">Projects</h3>
             <div>
-              {% assign entries = site.data.resume.education %}
-              {% include cv/education.liquid %}
+              {% assign entries = site.data.resume.projects %}
+              {% include cv/projects.liquid %}
             </div>
           </div>
         {% endif %}
@@ -314,18 +339,6 @@ layout: default
             <div>
               {% assign entries = site.data.resume.awards %}
               {% include cv/awards.liquid %}
-            </div>
-          </div>
-        {% endif %}
-
-        <!-- Skills -->
-        {% if site.data.resume.skills.size > 0 %}
-          <a class="anchor" id="skills"></a>
-          <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Skills</h3>
-            <div>
-              {% assign entries = site.data.resume.skills %}
-              {% include cv/skills.liquid %}
             </div>
           </div>
         {% endif %}
@@ -362,18 +375,6 @@ layout: default
             <div>
               {% assign entries = site.data.resume.certificates %}
               {% include cv/certificates.liquid %}
-            </div>
-          </div>
-        {% endif %}
-
-        <!-- Projects -->
-        {% if site.data.resume.projects.size > 0 %}
-          <a class="anchor" id="projects"></a>
-          <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Projects</h3>
-            <div>
-              {% assign entries = site.data.resume.projects %}
-              {% include cv/projects.liquid %}
             </div>
           </div>
         {% endif %}
