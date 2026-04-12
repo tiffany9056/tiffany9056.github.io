@@ -1,7 +1,7 @@
 cv:
   name: Ting Yu Tsai
-  email: ttsai2@albany.edu
-  location: Albany, NY
+  email: ttsai2@albany.edu / tiffany9056@gmail.com
+  location: Albany, NY, USA
   work_authorization: No sponsorship required; permanent resident
   image:
   summary:     Ph.D. candidate in Computer Science with experience building multimodal LLM,
@@ -31,7 +31,7 @@ cv:
   sections:
     Education:
       - institution: University at Albany - SUNY
-        location: USA, New York
+        location: Albany, NY, USA
         url: https://www.albany.edu/
         area: Computer Science
         studyType: Ph.D.
@@ -44,7 +44,7 @@ cv:
         #   - Description 2.
 
       - institution: National Taiwan University
-        location: Taiwan (R.O.C), Taipei
+        location: Taipei, Taiwan
         url: https://www.ntu.edu.tw/english/
         area: Graduate Institute of Biomedical Electronics and Bioinformatics
         studyType: M.S.
@@ -55,7 +55,7 @@ cv:
         #   - Description 2.
 
       - institution: Chung Shan Medical University
-        location: Taiwan (R.O.C), Taichung
+        location: Taichung, Taiwan
         url: https://english.csmu.edu.tw/
         area: Department of Medical Informatics
         studyType: B.S.
@@ -292,7 +292,7 @@ cv:
       - name: Tools
         icon: fa-solid fa-screwdriver-wrench
         keywords: "Git, Linux, Docker, OpenSSL"
-        
+
     Projects:
       - name: "ReDiPrune: Efficient Multimodal LLM Inference"
         summary: "A training-free token pruning framework for multimodal LLMs."
