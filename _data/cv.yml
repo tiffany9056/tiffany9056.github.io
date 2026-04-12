@@ -2,10 +2,17 @@ cv:
   name: Ting Yu Tsai
   email: ttsai2@albany.edu
   location: Albany, NY
-  work_authorization: No sponsorship required; permanent resident; green card holder
+  work_authorization: No sponsorship required; permanent resident
   image:
-  summary: I am a Ph.D. student in Computer Science at the University at Albany specializing in computer vision, machine learning, multimodal AI, and medical AI. Experienced in conducting advanced research and developing innovative AI models for medical imaging, video understanding, and intelligent healthcare applications. Brings strong technical expertise, analytical problem-solving skills, and a proven ability to translate cutting-edge research into impactful real-world solutions.
-
+  summary:     Ph.D. candidate in Computer Science with experience building multimodal LLM,
+    machine learning, computer vision, and Python-based software systems for
+    real-world applications. Developed end-to-end deep learning pipelines,
+    evaluation workflows, and full-stack AI tools for medical imaging, video
+    understanding, and intelligent decision-support systems. Brings strong
+    hands-on experience in Python, PyTorch, TensorFlow, multimodal LLM
+    inference, model evaluation, and software development, with a track record
+    of translating research ideas into practical and scalable solutions.
+    
   # social_networks:
   #   - network: X
   #     username: AlbertEinstein
