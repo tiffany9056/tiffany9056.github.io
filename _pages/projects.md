@@ -9,7 +9,7 @@ nav_order: 3
 profiles:
   # /_includes/project_profiles/
   - align: left
-    image: project/logo_uumamba.png
+    image: project/logo_uumamba.gif
     content: project_profiles/about_uumamba.md
     image_circular: false
     more_info: >
@@ -17,7 +17,7 @@ profiles:
     redirect: https://github.com/tiffany9056/UU-Mamba
 
   - align: right
-    image: project/logo_intellicardiac.jpeg
+    image: project/logo_intellicardiac.gif
     content: project_profiles/about_intellicardiac.md
     image_circular: false
     more_info: >
@@ -25,7 +25,7 @@ profiles:
     redirect: https://github.com/UA-CVML/IntelliCardiac
 
   - align: left
-    image: project/logo_rat.png
+    image: project/logo_rat.gif
     content: project_profiles/about_rat.md
     image_circular: false
     more_info: >
