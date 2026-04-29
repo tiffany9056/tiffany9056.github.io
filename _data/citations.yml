@@ -1,24 +1,28 @@
 metadata:
-  last_updated: '2026-03-23'
+  last_updated: '2026-04-29'
 papers:
   ceWsfr8AAAAJ:2osOgNQ5qMEC:
     citations: 2
     title: 'IntelliCardiac: An Intelligent Platform for Cardiac Image Segmentation and Classification'
     year: '2025'
   ceWsfr8AAAAJ:9yKSN-GCB0IC:
-    citations: 5
+    citations: 8
     title: 'Uu-mamba: Uncertainty-aware u-mamba for cardiovascular segmentation'
     year: '2024'
+  ceWsfr8AAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: 'ReDiPrune: Relevance-Diversity Pre-Projection Token Pruning for Efficient Multimodal LLMs'
+    year: '2026'
   ceWsfr8AAAAJ:UeHWp8X0CEIC:
     citations: 0
     title: An Uncertainty-Aware Generalization Framework for Cardiovascular Image Segmentation
     year: '2024'
   ceWsfr8AAAAJ:d1gkVwhDpl0C:
-    citations: 36
+    citations: 42
     title: 'Uu-mamba: uncertainty-aware u-mamba for cardiac image segmentation'
     year: '2024'
   ceWsfr8AAAAJ:qjMakFHDy7sC:
-    citations: 9
+    citations: 11
     title: 'Spotting the Fakes: A Deep Dive into GAN-Generated Face Detection'
     year: '2025'
   ceWsfr8AAAAJ:u-x6o8ySG0sC:
@@ -29,3 +33,7 @@ papers:
     citations: 25
     title: Facial skin image classification system using Convolutional Neural Networks deep learning algorithm
     year: '2018'
+  ceWsfr8AAAAJ:zYLM7Y9cAGgC:
+    citations: 0
+    title: 'RatSeizure: A Benchmark and Saliency-Context Transformer for Rat Seizure Localization'
+    year: '2026'
