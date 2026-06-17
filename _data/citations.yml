@@ -1,24 +1,28 @@
 metadata:
-  last_updated: '2026-05-11'
+  last_updated: '2026-06-17'
 papers:
   ceWsfr8AAAAJ:2osOgNQ5qMEC:
     citations: 2
     title: 'IntelliCardiac: An Intelligent Platform for Cardiac Image Segmentation and Classification'
     year: '2025'
   ceWsfr8AAAAJ:9yKSN-GCB0IC:
-    citations: 8
+    citations: 9
     title: 'Uu-mamba: Uncertainty-aware u-mamba for cardiovascular segmentation'
     year: '2024'
   ceWsfr8AAAAJ:IjCSPb-OGe4C:
     citations: 0
     title: 'ReDiPrune: Relevance-Diversity Pre-Projection Token Pruning for Efficient Multimodal LLMs'
     year: '2026'
+  ceWsfr8AAAAJ:Tyk-4Ss8FVUC:
+    citations: 0
+    title: Causal Volterra Dynamics of Mamba
+    year: Unknown Year
   ceWsfr8AAAAJ:UeHWp8X0CEIC:
     citations: 0
     title: An Uncertainty-Aware Generalization Framework for Cardiovascular Image Segmentation
     year: '2024'
   ceWsfr8AAAAJ:d1gkVwhDpl0C:
-    citations: 44
+    citations: 46
     title: 'Uu-mamba: uncertainty-aware u-mamba for cardiac image segmentation'
     year: '2024'
   ceWsfr8AAAAJ:qjMakFHDy7sC:
