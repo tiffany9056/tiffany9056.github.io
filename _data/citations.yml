@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-07-01'
 papers:
   ceWsfr8AAAAJ:2osOgNQ5qMEC:
     citations: 3
@@ -21,12 +21,16 @@ papers:
     citations: 0
     title: An Uncertainty-Aware Generalization Framework for Cardiovascular Image Segmentation
     year: '2024'
+  ceWsfr8AAAAJ:Y0pCki6q_DkC:
+    citations: 0
+    title: A Latent-Guided Hybrid Architecture for Liver Segmentation in Contrast-Enhanced MRI
+    year: '2026'
   ceWsfr8AAAAJ:d1gkVwhDpl0C:
     citations: 46
     title: 'Uu-mamba: uncertainty-aware u-mamba for cardiac image segmentation'
     year: '2024'
   ceWsfr8AAAAJ:qjMakFHDy7sC:
-    citations: 11
+    citations: 12
     title: 'Spotting the Fakes: A Deep Dive into GAN-Generated Face Detection'
     year: '2025'
   ceWsfr8AAAAJ:u-x6o8ySG0sC:
