@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-13'
 papers:
   ceWsfr8AAAAJ:2osOgNQ5qMEC:
     citations: 3
@@ -10,7 +10,7 @@ papers:
     title: 'Uu-mamba: Uncertainty-aware u-mamba for cardiovascular segmentation'
     year: '2024'
   ceWsfr8AAAAJ:IjCSPb-OGe4C:
-    citations: 0
+    citations: 1
     title: 'ReDiPrune: Relevance-Diversity Pre-Projection Token Pruning for Efficient Multimodal LLMs'
     year: '2026'
   ceWsfr8AAAAJ:Tyk-4Ss8FVUC:
@@ -26,11 +26,11 @@ papers:
     title: A Latent-Guided Hybrid Architecture for Liver Segmentation in Contrast-Enhanced MRI
     year: '2026'
   ceWsfr8AAAAJ:d1gkVwhDpl0C:
-    citations: 46
+    citations: 49
     title: 'Uu-mamba: uncertainty-aware u-mamba for cardiac image segmentation'
     year: '2024'
   ceWsfr8AAAAJ:qjMakFHDy7sC:
-    citations: 12
+    citations: 13
     title: 'Spotting the Fakes: A Deep Dive into GAN-Generated Face Detection'
     year: '2025'
   ceWsfr8AAAAJ:u-x6o8ySG0sC:
