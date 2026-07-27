@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-07-27'
 papers:
   ceWsfr8AAAAJ:2osOgNQ5qMEC:
     citations: 3
@@ -16,7 +16,7 @@ papers:
   ceWsfr8AAAAJ:Tyk-4Ss8FVUC:
     citations: 0
     title: Causal Volterra Dynamics of Mamba
-    year: Unknown Year
+    year: '2026'
   ceWsfr8AAAAJ:UeHWp8X0CEIC:
     citations: 0
     title: An Uncertainty-Aware Generalization Framework for Cardiovascular Image Segmentation
@@ -26,7 +26,7 @@ papers:
     title: A Latent-Guided Hybrid Architecture for Liver Segmentation in Contrast-Enhanced MRI
     year: '2026'
   ceWsfr8AAAAJ:d1gkVwhDpl0C:
-    citations: 49
+    citations: 51
     title: 'Uu-mamba: uncertainty-aware u-mamba for cardiac image segmentation'
     year: '2024'
   ceWsfr8AAAAJ:qjMakFHDy7sC:
