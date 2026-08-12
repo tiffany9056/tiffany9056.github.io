@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-12'
 papers:
   ceWsfr8AAAAJ:2osOgNQ5qMEC:
-    citations: 3
+    citations: 4
     title: 'IntelliCardiac: An Intelligent Platform for Cardiac Image Segmentation and Classification'
     year: '2025'
   ceWsfr8AAAAJ:9yKSN-GCB0IC:
@@ -31,14 +31,14 @@ papers:
     year: '2024'
   ceWsfr8AAAAJ:qjMakFHDy7sC:
     citations: 13
-    title: 'Spotting the Fakes: A Deep Dive into GAN-Generated Face Detection'
+    title: 'Spotting the fakes: A deep dive into GAN-generated face detection'
     year: '2025'
   ceWsfr8AAAAJ:u-x6o8ySG0sC:
     citations: 6
     title: Based on DICOM RT structure and multiple loss function deep learning algorithm in organ segmentation of head and neck image
     year: '2019'
   ceWsfr8AAAAJ:u5HHmVD_uO8C:
-    citations: 25
+    citations: 23
     title: Facial skin image classification system using Convolutional Neural Networks deep learning algorithm
     year: '2018'
   ceWsfr8AAAAJ:zYLM7Y9cAGgC:
