@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-08-24'
 papers:
   ceWsfr8AAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -30,7 +30,7 @@ papers:
     title: 'Uu-mamba: uncertainty-aware u-mamba for cardiac image segmentation'
     year: '2024'
   ceWsfr8AAAAJ:qjMakFHDy7sC:
-    citations: 13
+    citations: 14
     title: 'Spotting the fakes: A deep dive into GAN-generated face detection'
     year: '2025'
   ceWsfr8AAAAJ:u-x6o8ySG0sC:
