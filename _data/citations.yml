@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-08-26'
 papers:
   ceWsfr8AAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -38,7 +38,7 @@ papers:
     title: Based on DICOM RT structure and multiple loss function deep learning algorithm in organ segmentation of head and neck image
     year: '2019'
   ceWsfr8AAAAJ:u5HHmVD_uO8C:
-    citations: 23
+    citations: 24
     title: Facial skin image classification system using Convolutional Neural Networks deep learning algorithm
     year: '2018'
   ceWsfr8AAAAJ:zYLM7Y9cAGgC:
